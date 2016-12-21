@@ -1,0 +1,10 @@
+C:\Users\Gyasi\Desktop\KeyboardBounce\KeyboardBounce\bin\Debug\KeyboardBounce.exe.config
+C:\Users\Gyasi\Desktop\KeyboardBounce\KeyboardBounce\bin\Debug\KeyboardBounce.exe
+C:\Users\Gyasi\Desktop\KeyboardBounce\KeyboardBounce\bin\Debug\KeyboardBounce.pdb
+C:\Users\Gyasi\Desktop\KeyboardBounce\KeyboardBounce\bin\Debug\CUE.NET.dll
+C:\Users\Gyasi\Desktop\KeyboardBounce\KeyboardBounce\obj\Debug\KeyboardBounce.csprojResolveAssemblyReference.cache
+C:\Users\Gyasi\Desktop\KeyboardBounce\KeyboardBounce\obj\Debug\KeyboardBounce.Form1.resources
+C:\Users\Gyasi\Desktop\KeyboardBounce\KeyboardBounce\obj\Debug\KeyboardBounce.Properties.Resources.resources
+C:\Users\Gyasi\Desktop\KeyboardBounce\KeyboardBounce\obj\Debug\KeyboardBounce.csproj.GenerateResource.Cache
+C:\Users\Gyasi\Desktop\KeyboardBounce\KeyboardBounce\obj\Debug\KeyboardBounce.exe
+C:\Users\Gyasi\Desktop\KeyboardBounce\KeyboardBounce\obj\Debug\KeyboardBounce.pdb
